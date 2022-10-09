@@ -8,7 +8,8 @@ associated tools and modules.
 Installing the package
 ------------
 
-If you just want to install this package, we provide a number of pre-built binaries for Metasploit that are rebuilt every night. See https://github.com/rapid7/metasploit-framework/wiki/Nightly-Installers for installation [information](https://github.com/readloud/metasploit-omnibus/wiki).
+If you just want to install this package, we provide a number of pre-built binaries for Metasploit that are rebuilt every night. See [Wiki](https://github.com/rapid7/metasploit-framework/wiki/Nightly-Installers) for installation information.
+[Quick Start](https://github.com/readloud/metasploit-omnibus/wiki).
 
 Building the package
 ------------
